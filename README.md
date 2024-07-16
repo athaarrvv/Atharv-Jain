@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @athaarrvv0
+- 👋 Hi, I’m Atharv Jain
 - 👀 I’m interested in Web Designing, Software Deplopment, Gaming, and video editing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web designing
