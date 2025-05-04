@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Atharv Jain
-- 👀 I’m interested in Web Designing, Software Deplopment, Gaming, and video editing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web designing
-- 📫 How to reach me E-mail : athaarrvv1@gmail.com
-- 😄 Pronouns: He/his
-<!---
-athaarrvv0/athaarrvv0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I’m Atharv Jain — currently exploring the world of Python and Data Science 🐍📊.
+
+I started by building a few websites for clients as a freelancer, which gave me a solid start with code and real-world problem solving. But now, I’m focused on working with data — finding patterns, asking questions, and figuring out cool things with Python and turn it into something useful using tools like Pandas, NumPy, and Matplotlib.
+
+🚀 Check out some of my projects: github.com/athaarrvv
+🔗 Check out my linkedin profile : linkedin.com/in/athaarrvv
+📱 Check out my instagram profile : instagram.com/athaarrvv
+📥 For any assistance, drop mail on : athaarrvv2@gmail.com
+
+Let’s connect and grow! 🤝
